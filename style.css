@@ -1,0 +1,1720 @@
+.main,
+.main * {
+  box-sizing: border-box;
+}
+.main {
+  background: #ffffff;
+  width: 100%;
+  min-height: 5927px;
+  position: relative;
+  overflow: hidden;
+}
+.background_image {
+  position: absolute;
+  left: 0px;
+  top: 130px;
+  overflow: visible;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.divider {
+  background: #ffffff;
+  width:120rem;
+  height: 130px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.nav {
+  width: 1440px;
+  height: 56px;
+  position: absolute;
+}
+.logo {
+  width: 253.04px;
+  height: 53px;
+  position: absolute;
+}
+.gamer {
+  text-align: center;
+  font: 700 45px "Work Sans", sans-serif;
+  position: absolute;
+  left: 346.04px;
+  top: 38px;
+}
+.gamer-span {
+   color: rgba(255, 66, 165, 1);
+  font: 700 45px "Work Sans", sans-serif;
+}
+.gamer-span2 {
+  color: #0b0223;
+  font: 700 45px "Work Sans", sans-serif;
+}
+.logo-img {
+  width: 86.04px;
+  height: 40px;
+  position: absolute;
+}
+.logo-content {
+  width: 86.04px;
+  height: 40px;
+  position: absolute;
+  left: 15rem;
+  top: 44px;
+  overflow: hidden;
+}
+.nav-logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.nav-bar {
+  width: 505px;
+  height: 56px;
+  position: absolute;
+}
+.nav-content {
+  width: 211px;
+  height: 21px;
+  position: absolute;
+}
+.about-us {
+  color: #3c354f;
+  text-align: center;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 71.875rem;
+  top: 3.375rem;
+  width: 10rem;
+}
+.developers {
+  color: #3c354f;
+  text-align: center;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1288px;
+  top: 3.375rem;
+}
+.nav-div {
+  width: 16.375rem;
+  height: 56px;
+  position: absolute;
+}
+.div-background {
+  background: rgba(11, 2, 35, 0.1);
+  border-radius: 8px;
+  width: 16.375rem;
+  height: 56px;
+  position: absolute;
+  left: 1418px;
+  top: 37px;
+}
+.follow-us-on {
+  color: #3c354f;
+  text-align: center;
+  font: 500 18px "Work Sans", sans-serif;
+  position: absolute;
+  left: 89rem;
+  top: 3.375rem;
+  width: 10rem;
+}
+.icon-section {
+  width: 73.92px;
+  height: 24px;
+  position: absolute;
+}
+.icon-container {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.tik-tok-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1631.92px;
+  top: 53px;
+  overflow: hidden;
+}
+
+.tik-tok-icon {
+  position: absolute;
+  left: 0.16px;
+  top: 1.12px;
+  overflow: visible;
+}
+
+.youtube-icon {
+  position: absolute;
+  left: 1582px;
+  top: 53px;
+  overflow: visible;
+}
+.hero {
+  position: absolute;
+  inset: 0;
+}
+.pngwing-3 {
+  width: 260.89px;
+  height: 200.02px;
+  position: absolute;
+  left:70%;
+  top: 595px;
+}
+.pngwing-2 {
+  width: 213px;
+  height: 213px;
+  position: absolute;
+  left: 50%;
+  top: 595px;
+}
+.pngwing-1 {
+  width: 711px;
+  height: 446px;
+  position: absolute;
+  left: 969px;
+  top: 149px;
+}
+
+.hero-left-content {
+  width: 762px;
+  height: 599px;
+  position: relative;
+}
+.hero-left-container {
+  width: 362px;
+  height: 299px;
+}
+.hero-text {
+  width: 355px;
+  height: 171px;
+}
+.play-like-the {
+  color: #0b0223;
+  text-align: center;
+  font: 600 48px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 244px;
+  top: 278px;
+}
+.goat {
+    color: rgba(255, 66, 165, 1);
+  text-align: center;
+  font: 800 95px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 15rem;
+  top: 338px;
+}
+.hero-description-content {
+  width: 562px;
+  height: 204px;
+  position: relative;
+}
+.hero-description {
+  width: 223px;
+  height: 24px;
+}
+._1-click-instant-play {
+  color: #534c64;
+  text-align: center;
+  font: 500 20px "Work Sans", sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: 17.25rem;
+  top: 330px;
+}
+.play-icon {
+  position: absolute;
+  left: 15rem;
+  top: 330px;
+  overflow: visible;
+}
+.download-description {
+  width: 167px;
+  height: 24px;
+  position: absolute;
+}
+.no-download {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 17.25rem;
+   top: 23.5rem;
+   width: 20rem;
+}
+.download-icon {
+  position: absolute;
+  left: 15rem;
+   top: 23.5rem;
+  overflow: visible;
+}
+.online-games-description {
+  width: 762px;
+  height: 24px;
+  position: relative;
+}
+._1000-s-of-supported-online-games {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 17.25rem;
+  top: 21.5rem;
+}
+.online-games-icon {
+  position: absolute;
+  left: 15rem;
+  top: 21.5rem;
+  overflow: visible;
+}
+.button-group {
+  width: 665px;
+  height: 65px;
+  position: relative;
+}
+.sign-in-container {
+    background: rgba(255, 66, 165, 1);
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 15rem;
+   top: 5rem;
+}
+.sign-in {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.go-rogue-container {
+  background: #4ec5f7;
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 420px;
+   top: 5rem;
+}
+.go-rogue {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.rectangle-3 {
+    color: rgba(255, 66, 165, 1);
+  width:120rem;
+  height: 600px;
+  position: relative;
+  left: 0px;
+  top: 830px;
+}
+.gamer-segment {
+  position: absolute;
+  inset: 0;
+}
+.gamer-container {
+  width: 520px;
+  height: 200px;
+  position: relative;
+}
+.we-are-gamer {
+    width: 100%;
+    height: 600px;
+    color: rgba(255, 66, 165, 1);
+  text-align: right;
+  font: 700 48px "Work Sans", sans-serif;
+  position: absolute;
+  left: 220%;
+  top: 925px;
+}
+.des {
+  color: #534c64;
+  text-align: right;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1160px;
+  top: 1005px;
+  width: 520px;
+}
+.our-purpose {
+  color: #534c64;
+  text-align: right;
+  position: absolute;
+  left: 1160px;
+  top: 1246px;
+  width: 520px;
+}
+.our-purpose-span {
+  color: #534c64;
+  font: 600 14px/45px "Work Sans", sans-serif;
+}
+.our-purpose-span2 {
+  color: #534c64;
+  font: 700 24px/45px "Work Sans", sans-serif;
+}
+.button-know-more {
+  background:rgba(255, 66, 165, 1);
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1472px;
+  top: 1157px;
+}
+.know-more {
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.gamer-img {
+  width: 868px;
+  height: 489px;
+  position: absolute;
+  left: 15rem;
+  top: 55.313rem;
+}
+.collection-segment {
+  position: absolute;
+  inset: 0;
+}
+.online-games-funny-videos {
+  text-align: right;
+  font: 700 48px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 328px);
+  top: 1550px;
+}
+.online-games-funny-videos-span {
+  color: #0b0223;
+  font: 700 48px "Work Sans", sans-serif;
+}
+.online-games-funny-videos-span2 {
+    color: rgba(255, 66, 165, 1);
+  font: 700 48px "Work Sans", sans-serif;
+}
+.brighten-your-day {
+  color: #534c64;
+  text-align: center;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 232px);
+  top: 1622px;
+}
+.collection {
+  position: absolute;
+  inset: 0;
+}
+.collection-1-img{
+  border-radius: 16px;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 15rem;
+  top: 1700px;
+}
+.instantly-on-gamer {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2124px;
+  width: 342px;
+}
+
+.collection-2-img {
+  border-radius: 16px;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 606px;
+  top: 1700px;
+}
+.unblockedgames-school {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 33.375rem);
+  top: 2124px;
+  width: 342px;
+}
+.collection-3-img {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  border-radius: 16px;
+  border-width: 4px;
+  border-style: solid;
+  border-image:linear-gradient(90deg, rgba(255, 66, 165, 1) 0%, rgba(255, 66, 165, 1) 100%);
+  border-image-slice: 1;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 972px;
+  top: 1700px;
+}
+.breaking-game-records-like-og {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -12px);
+  top: 2124px;
+  width: 244px;
+}
+
+.collection-4-img {
+  border-radius: 16px;
+  width: 342px;
+  height: 400px;
+  position: absolute;
+  left: 1338px;
+  top: 1700px;
+}
+.busted-gaming-on-school-laptop-but-you-are-still-lit {
+  color: #534c64;
+  text-align: left;
+  font: 500 20px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -378px);
+  top: 2124px;
+  width: 342px;
+}
+.section {
+  position: absolute;
+  inset: 0;
+}
+.section-container {
+  width: 48px;
+  height: 48px;
+  position: relative;
+}
+.play-button-1 {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 1120px;
+  top: 1856px;
+  overflow: hidden;
+}
+.group4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.watch-now {
+    color: rgba(255, 66, 165, 1);
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -127px);
+  top: 1920px;
+}
+.group-62 {
+  position: absolute;
+  inset: 0;
+}
+.group-59 {
+  width: 75rem;
+  height: 725.83px;
+  position: absolute;
+}
+.rectangle-5 {
+  border-radius: 8px;
+  width: 634.83px;
+  height: 650px;
+  position: absolute;
+  left: 1045.17px;
+  top: 2304px;
+}
+.rectangle-6 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 10px;
+  width: 318.5px;
+  height: 365.08px;
+  position: absolute;
+  left: 900px;
+  top: 2664.75px;
+}
+.group-30 {
+  width: 353px;
+  height: 294px;
+  position: absolute;
+}
+.play-instantly-no-downloads-no-installs {
+  text-align: right;
+  font: 700 48px/60px "Work Sans", sans-serif;
+  position: absolute;
+  width: 40rem;
+  top: 157.5rem;
+  left: 8rem;
+}
+.play-instantly-no-downloads-no-installs-span {
+    color: rgba(255, 66, 165, 1);
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.play-instantly-no-downloads-no-installs-span2 {
+  color: #0b0223;
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.your-browser {
+  color: #534c64;
+  text-align: right;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 24rem;
+  top: 171rem;
+  width: 353px;
+}
+.play-game {
+  position: relative;
+  inset: 0;
+}
+.play-game-img {
+  width: 846px;
+  height: 773px;
+  position: absolute;
+}
+.play-img-1 {
+  border-radius: 8px;
+  width: 44.375rem;
+  height: 40.625rem;
+  position: absolute;
+  left: 14.875rem;
+  top: 160rem;
+}
+.play-img-2 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 10px;
+  width: 19.875rem;
+  height: 22.813rem;
+  position: absolute;
+  left: 47.875rem;
+  top: 180rem;
+}
+.group-31 {
+  width: 483px;
+  height: 294px;
+  position: absolute;
+}
+.play-games-online-anywhere-anytime {
+  text-align: left;
+  font: 700 48px/60px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - -237px);
+  top: 165.864rem;
+  width: 426px;
+}
+.play-games-online-anywhere-anytime-span {
+  color:  rgba(249, 72, 178, 1) ;
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.play-games-online-anywhere-anytime-span2 {
+  color: #0b0223;
+  font: 700 48px/60px "Work Sans", sans-serif;
+}
+.on-any-device {
+  color: #534c64;
+  text-align: left;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 74rem;
+  top: 178.864rem;
+  width: 483px;
+}
+.rectangle-10 {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 66, 165, 0.03) 0%,
+      rgba(255, 66, 165, 0.03) 100%
+    );
+    width: 120rem;
+    height: 26.688rem;
+    position: relative;
+}
+.rectangle-72 {
+  background: rgba(255, 66, 165, 1);
+  width:120rem;
+  height: 51.313rem;
+  position: absolute;
+  left: calc(50% - 960px);
+  top: 252.677rem;
+}
+.group-33 {
+  position: absolute;
+  inset: 0;
+}
+.group-32 {
+  width: 42.5rem;
+  height: 204px;
+  position: absolute;
+}
+.careers {
+  color: #ffffff;
+  text-align: left;
+  font: 700 48px/60px "Work Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 260rem;
+  width: 426px;
+}
+.gamer-is-driven {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/30px "Work Sans", sans-serif;
+  position: absolute;
+  left: 15rem;
+  top: 265.427rem;
+  width: 42.5rem;
+}
+.multimedia-artist-data{
+  color: #ffffff;
+  text-align: left;
+  font: 600 20px/40px "Work Sans", sans-serif;
+  position: absolute;
+  left: 15rem;
+  top: 274.927rem;
+}
+.lisbon-portugal {
+  color: #ffffff;
+  text-align: right;
+  font: 600 20px/40px "Work Sans", sans-serif;
+  position: absolute;
+  left: 42.125rem;
+  top: 274.927rem;
+}
+.frame-23 {
+  background: #ffffff;
+  border-radius: 48px;
+  padding: 21px 40px 21px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 15rem;
+  top: 292.427rem;
+}
+.see-all-positions {
+    color: rgba(255, 66, 165, 1);
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.group-65 {
+  position: absolute;
+  left: 56.688rem;
+  top: 252.677rem;
+  overflow: visible;
+}
+.group-46 {
+  position: absolute;
+  inset: 0;
+}
+.group-44 {
+  width: 82.063rem;
+  height: 11.688rem;
+  position: absolute;
+}
+.group-40 {
+  width: 18.438rem;
+  height: 5rem;
+  position: absolute;
+}
+.group-34 {
+  width: 18.438rem;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-9 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 18.438rem;
+  height: 5rem;
+  position: absolute;
+  left: 68.688rem;
+  top: 311.5rem;
+}
+.educational-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 74.063rem;
+  top: 313.313rem;
+}
+.rectangle-11 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1109px;
+  top: 4994px;
+}
+.group-41 {
+  width: 231px;
+  height: 5rem;
+  position: absolute;
+}
+.group-342 {
+  width: 231px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-92 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 231px;
+  height: 5rem;
+  position: absolute;
+  left: 1407px;
+  top: 4985px;
+}
+.word-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1493px;
+  top: 5014px;
+}
+.rectangle-112 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1417px;
+  top: 4995px;
+}
+.group-42 {
+  width: 299px;
+  height: 5rem;
+  position: absolute;
+}
+.group-343 {
+  width: 299px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-93 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 299px;
+  height: 5rem;
+  position: absolute;
+  left: 325px;
+  top: 5091px;
+}
+.role-palying-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 411px;
+  top: 5120px;
+}
+.rectangle-113 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 335px;
+  top: 5101px;
+}
+.group-43 {
+  width: 16.375rem;
+  height: 5rem;
+  position: absolute;
+}
+.group-344 {
+  width: 16.375rem;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-94 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 16.375rem;
+  height: 5rem;
+  position: absolute;
+  left: 1281px;
+  top: 5090.83px;
+}
+.strategy-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1367px;
+  top: 5119.83px;
+}
+.rectangle-114 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1291px;
+  top: 5100.83px;
+}
+.group-45 {
+  width: 1008px;
+  height: 188.17px;
+  position: absolute;
+}
+.group-35 {
+  width: 243px;
+  height: 5rem;
+  position: absolute;
+}
+.group-345 {
+  width: 243px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-95 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 243px;
+  height: 5rem;
+  position: absolute;
+  left: 239px;
+  top: 4983.83px;
+}
+.action-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 325px;
+  top: 5012.83px;
+}
+.rectangle-115 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 249px;
+  top: 4993.83px;
+}
+.group-36 {
+  width: 281px;
+  height: 5rem;
+  position: absolute;
+}
+.group-346 {
+  width: 281px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-96 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 281px;
+  height: 5rem;
+  position: absolute;
+  left: 509px;
+  top: 4983.83px;
+}
+.adventure-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 595px;
+  top: 5012.83px;
+}
+.rectangle-116 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 519px;
+  top: 4993.83px;
+}
+.group-37 {
+  width: 248px;
+  height: 5rem;
+  position: absolute;
+}
+.group-347 {
+  width: 248px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-97 {
+  background: #ffffff;
+  border-radius: 50px;
+  border-width: 1.5px;
+  border-style: solid;
+    color: rgba(255, 66, 165, 1);
+  border-image-slice: 1;
+  width: 248px;
+  height: 5rem;
+  position: absolute;
+  left: 817px;
+  top: 4983.83px;
+}
+.arcade-games {
+    color: rgba(255, 66, 165, 1);
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 903px;
+  top: 5012.83px;
+}
+.rectangle-117 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 827px;
+  top: 4993.83px;
+}
+.group-38 {
+  width: 317px;
+  height: 5rem;
+  position: absolute;
+}
+.group-348 {
+  width: 317px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-98 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 317px;
+  height: 5rem;
+  position: absolute;
+  left: 657px;
+  top: 5092px;
+}
+.music-audio-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 743px;
+  top: 5121px;
+}
+.rectangle-118 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 667px;
+  top: 5102px;
+}
+.group-39 {
+  width: 244px;
+  height: 5rem;
+  position: absolute;
+}
+.group-349 {
+  width: 244px;
+  height: 5rem;
+  position: absolute;
+}
+.rectangle-99 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 244px;
+  height: 5rem;
+  position: absolute;
+  left: 1003px;
+  top: 5091px;
+}
+.puzzle-games {
+  color: #0b0223;
+  text-align: left;
+  font: 600 20px "Work Sans", sans-serif;
+  position: absolute;
+  left: 1089px;
+  top: 5120px;
+}
+.rectangle-119 {
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 1013px;
+  top: 5101px;
+}
+.group-56 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1110 {
+  background: #0b0223;
+  width:120rem;
+  height: 636px;
+  position: absolute;
+  left: 0px;
+  top: 5290.83px;
+}
+.group-55 {
+  width: 814px;
+  height: 396px;
+  position: absolute;
+}
+.group-54 {
+  width: 708px;
+  height: 86px;
+  position: absolute;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 37rem;
+  top: 357.552rem;
+  width: 100rem;
+}
+.terms-and-conditions {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.privacy-policy {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.cookie-policy {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.privacy-settings {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left:50rem;
+  top: 360.489rem;
+  width: 100rem;
+}
+.play-games-gamer-2000-2023-gamer-bangladesh {
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  font: 500 16px "Work Sans", sans-serif;
+  position: relative;
+}
+.gamer2 {
+  text-align: center;
+  font: 700 45px "Work Sans", sans-serif;
+  position: absolute;
+  left: 939.04px;
+  top: 5410.83px;
+}
+.gamer-2-span {
+    color: rgba(255, 66, 165, 1);
+  font: 700 45px "Work Sans", sans-serif;
+}
+.gamer-2-span2 {
+  color: #ffffff;
+  font: 700 45px "Work Sans", sans-serif;
+}
+.frame5 {
+  width: 86.04px;
+  height: 40px;
+  position: absolute;
+  left: 833px;
+  top: 5416.83px;
+  overflow: hidden;
+}
+.group5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 35rem;
+  top: 344.989rem;
+  width: 100rem;
+}
+.our-story {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.games {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.web-games {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.careers2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.support {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.my-account {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Work Sans", sans-serif;
+  position: relative;
+}
+.group-53 {
+  width: 28.571rem;
+  height: 2.5;
+  position: absolute;
+}
+.group-47 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.twitter-1 {
+  position: absolute;
+  left: 45.688rem;
+  top: 351.052rem;
+  overflow: visible;
+}
+.group-48 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.facebook-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 811px;
+  top: 351.052rem;
+  overflow: hidden;
+}
+.group6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-49 {
+  position: absolute;
+  left: 891px;
+  top: 351.052rem;
+  overflow: visible;
+}
+.group-50 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.linkedin-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 988.13px;
+  top: 351.052rem;
+  overflow: hidden;
+}
+.x-31-0-linkedin {
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+}
+.group-51 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.instagram-1 {
+  position: absolute;
+  left: 1068.13px;
+  top: 351.052rem;
+  overflow: visible;
+}
+.group-52 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.apple-1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1148.13px;
+  top: 351.052rem;
+  overflow: hidden;
+}
+.group7 {
+  position: absolute;
+  left: 19.34px;
+  top: 0px;
+  overflow: visible;
+}
+.group8 {
+  position: absolute;
+  left: 2.92px;
+  top: 9.36px;
+  overflow: visible;
+}
+
+
+
+
+  @media (max-width: 768px) {
+    .main {
+        background: #ffffff;
+        width: 100%;
+        min-height: 570rem;
+        position: relative;
+    }
+    .background_image {
+        display:none;
+    }
+    .divider {
+        display:none;
+    }
+   
+    .about-us{
+        top:8rem;
+        left: 20rem;
+        position: relative;
+    }
+    .developers{
+        top:10rem;
+        left: 18.5rem;
+        position: relative;
+    }
+    .div-background{
+        top:13.5rem;
+        left: 17rem;
+        position: relative;
+    }
+    .follow-us-on{
+        top:11rem;
+        left: 17rem;
+        position: relative;
+    }
+    .youtube-icon{
+        top:9.5rem;
+        left: 26.5rem;
+    }
+    .tik-tok-1{
+        top:9.5rem;
+        left: 29.5rem;
+    }
+   
+    .pngwing-1{
+        left: 2%;
+        top: 270px;
+    }
+    .pngwing-2{
+        width: 213px;
+  height: 213px;
+        left: 2%;
+        top: 700px;
+    }
+    .pngwing-3{
+        width: 213px;
+        height: 213px;
+        left:60%;
+        top: 700px;
+    }
+
+    .hero{
+        position: relative;
+    }
+
+
+    .hero-left-content {
+        width: 700px;
+        height: 799px;
+        position: relative;
+        left:-10%;
+        top: 700px;
+      }
+      .play-like-the{
+        width: 600px;
+        left:25%;
+        top:260px;
+      }
+      .goat{
+        width: 700px;
+        height: 399px;
+        position: relative;
+        left:35%;
+        top: 290px;
+        color: rgba(255, 66, 165, 1);
+      }
+   .rectangle-3{
+    width: 600px;
+    height: 450px;
+    position: relative;
+    left:8%;
+    top: 70px;
+   }
+
+   .hero-description-content{
+    position: absolute;
+    width: 600px;
+    height: 399px;
+    top:100px;
+    left:6%;
+   }
+
+   .button-group{
+    width: 800px;
+    height: 65px;
+    top: 400px;
+    left: -5%;
+    position: relative;
+   }
+
+   .gamer-img{
+    width: 100%;
+    height: 489px;
+    left: 1rem;
+    top: 85rem;
+   }
+   .we-are-gamer{
+    width: 100%;
+    height: 11.813rem;
+    left:2rem;
+    top:118rem;
+   }
+   .des{
+    width: 100%;
+    height: 18.063rem;
+    left:7rem;
+    top:122rem;
+    text-align: center;
+   }
+   .button-know-more{
+    left:16rem;
+    top:132rem;
+   }
+   .our-purpose{
+    width: 100%;
+    height: 18.063rem;
+    left:0rem;
+    top:138rem;
+    text-align: center;
+   }
+   .online-games-funny-videos{
+    width: 100%;
+    height: 18.063rem;
+    left:0rem;
+    top:144rem;
+    text-align: center;
+    /* font-size: 18px; */
+   }
+   .online-games-funny-videos-span{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+   }
+   .online-games-funny-videos-span2{
+    text-align: center;
+    font-size: 32px;
+    color: rgba(255, 66, 165, 1);
+   }
+   .brighten-your-day{
+    width: 100%;
+    height: 18.063rem;
+    left:0rem;
+    top:148rem;
+    text-align: center;
+    font-size: 16px;
+   }
+   .collection-1-img{
+    border-radius: 16px;
+    width: 362px;
+    height: 400px;
+    left: 12rem;
+    top: 155rem;
+   }
+   .instantly-on-gamer {
+    color: #534c64;
+    text-align: center;
+    left: 12rem;
+    top: 180rem;
+    font-size: 11px;
+  }
+   .collection-2-img{
+    border-radius: 16px;
+    width: 362px;
+    height: 400px;
+    left: 12rem;
+    top: 183rem;
+   }
+   .unblockedgames-school {
+    color: #534c64;
+    text-align: center;
+    left: 12rem;
+    top: 209rem;
+    font-size: 11px;
+  }
+   .collection-3-img{
+    border-radius: 16px;
+    width: 362px;
+    height: 400px;
+    left: 12rem;
+    top: 211rem;
+   }
+   .breaking-game-records-like-og {
+    color: #534c64;
+    text-align: center;
+    left: 14rem;
+    top: 236rem;
+    font-size: 11px;
+  }
+   .collection-4-img{
+    border-radius: 16px;
+    width: 362px;
+    height: 400px;
+    left: 12rem;
+    top: 240rem;
+   }
+   .watch-now {
+    color: #ffff;
+    text-align: center;
+    left: 20rem;
+    top: 230rem;
+  }
+   .busted-gaming-on-school-laptop-but-you-are-still-lit {
+    color: #534c64;
+    text-align: center;
+    left: 14rem;
+    top: 265rem;
+    font-size: 11px;
+  }
+
+  .play-instantly-no-downloads-no-installs{
+    font: 700 48px/60px "Work Sans", sans-serif;
+    position: absolute;
+    top: 269rem;
+    left: 10rem;
+    width: 30rem;
+    text-align: center;
+  }
+  .your-browser{
+    position: absolute;
+    top: 283rem;
+    left: 10rem;
+    width: 30rem;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+  }
+ 
+
+  .rectangle-5 {
+    border-radius: 8px;
+    width: 25rem;
+    height: 25rem;
+    position: absolute;
+    left:18rem;
+    top: 295rem;
+  }
+  .rectangle-6 {
+    border-radius: 8px;
+    width: 16rem;
+    height: 16rem;
+    position: absolute;
+    left:10rem;
+    top: 312rem;
+  }
+  .play-games-online-anywhere-anytime{
+    left: 6rem;
+    top: 250rem;
+    text-align: center;
+  }
+  .play-img-1 {
+    border-radius: 8px;
+    width: 27rem;
+    height: 29.625rem;
+    position: absolute;
+    left: 6rem;
+    top: 265rem;
+  }
+  .play-img-2 {
+    width: 17rem;
+    height: 19.625rem;
+    position: absolute;
+    left: 26rem;
+    top: 280rem;
+  }
+  .rectangle-10 {
+    left: 0px;
+    top: 364rem;
+  }
+  .rectangle-72 {
+    top: 390rem;
+    height: 105rem;
+  }
+
+  .group-34 {
+    left: 13.375rem;
+    top: 10963px;
+  }
+  
+
+
+
+
+
+
+  .careers {
+    left: 5rem;
+    top: 394rem;
+  }
+  .gamer-is-driven {
+    left: 5rem;
+    top:400rem;
+    width: 39rem;
+  }
+  .multimedia-artist-data{
+    left: 5rem;
+    top:413rem;
+  }
+  .lisbon-portugal {
+    left: 28rem;
+    top:413rem;
+    text-align: left;
+  }
+  .frame-23 {
+    left: 5rem;
+    top: 430rem;
+  }
+  .group-65 {
+    left: -3rem;
+    top: 438rem;
+    overflow: visible;
+  }
+.group-46{
+    top: 188rem; 
+    left: -15rem;
+}
+.group-44{
+    width: 12rem;
+}
+.rectangle-9{
+    width: 11.438rem;
+    height: 1rem;
+}
+.rectangle-95{
+    width: 11.438rem;
+    height: 1rem;
+}
+.action-games {
+    width: 2rem;
+    height: 1rem;
+}
+.rectangle-115{
+      width: 3rem;
+      height: 3rem;
+
+  }
+  .group-56{
+    top:200rem;
+  }
+ 
+  .frame-5{
+    width:50rem;
+    left: 3rem;
+  }
+  .frame-6{
+    width:50rem;
+    left: 10rem;
+  }
+  .frame-4{
+    width:100rem;
+    left: 2rem;
+  }
+  .group-53 {
+    top: 350rem;
+    left: 10rem;
+}
+.group-47 {
+    border: 10px solid yellow;
+    left: 10rem;
+    top: 350rem;
+}
+
+.gamer2 {
+    left: 20rem;
+    top: 335rem;
+  }
+.frame5 {
+    left: 13.5rem;
+    top: 335rem;
+    width: 50rem;
+  }
+  .twitter-1 {
+    border: 10px solid red;
+    top: 451.052rem;
+    overflow: visible;
+  }
+  }
